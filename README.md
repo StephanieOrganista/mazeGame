@@ -1,0 +1,2 @@
+# mazeGame
+t’s halloween day! You and your friends decided to take an adventure to a creepy and abandoned haunted mansion in your neighborhood. As you all go in, the doors to the haunted mansion shuts and the only way out is by navigating through the house's creepy rooms to the patio door. Sure enough, the 4 rooms all have a creepy maze. All of the mazes are loaded with obstacles like locked doors to replicate a neverending nightmare, all in effort of escaping the haunted mansion or risking staying lost in it forever. 
